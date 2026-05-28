@@ -99,6 +99,10 @@ An Excel-based healthcare financial management system built with Python/openpyxl
 
 ---
 
+#  AI-Assisted Development Notice
+
+This project was created using AI-assisted development tools to accelerate coding, documentation, and problem-solving processes. All project requirements, architecture decisions, feature selection, testing, debugging, and final implementation were reviewed and managed by the developer.
+
 ## 📬 Get In Touch
 
 I'm currently **open to new opportunities** — especially roles in:
